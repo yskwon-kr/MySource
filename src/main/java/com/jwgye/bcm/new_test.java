@@ -1,5 +1,5 @@
 package com.jwgye.bcm;
 
-public class test {
+public class new_test {
 
 }
