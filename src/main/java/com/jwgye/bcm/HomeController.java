@@ -35,6 +35,7 @@ public class HomeController {
 		
 		String test = "";
 		String test1 = "";
+		String test2 = "test";
 		return "home";
 	}
 	
